@@ -1,1 +1,1 @@
-# C-ile-XML-tabanl-ki-isel-rehber-uygulamas-
+XML-tabanli-kisisel-rehber-uygulamasi-
