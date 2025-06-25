@@ -1,1 +1,1 @@
-XML-tabanli-kisisel-rehber-uygulamasi-
+XML-tabanli-kisisel-rehber-uygulamasi
